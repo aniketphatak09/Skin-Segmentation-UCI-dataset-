@@ -1,1 +1,3 @@
 # Skin-Segmentation-UCI-dataset-
+
+This project mainly deals with the classification of skin and non-skin pixel category based on B, G, R pixel values. Skin segmentation is quite a challenging problem due to the fact that a lot depends on the lightning conditions, background etc. Hence in this project we implement different classifiers such as Random Forest, KNN, Logistic Regression, Decision Trees, LDA & QDA in order to obtain our best performing model capable to accurately predict whether the given combination of B, G, R values belong to skin or non-skin category. Additionally, we also come up with intuitive machine learning techniques such as k-fold cross validation to make our model robust to errors. 
